@@ -1,9 +1,4 @@
-boto3
-PyPDF2
-python-dotenv
 requests
-ollama
-pyyaml
-beautifulsoup4
-lxml
-openai
+jsonlib-python3
+torch
+PyPDF2
